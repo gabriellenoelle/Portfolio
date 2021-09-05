@@ -1,0 +1,16 @@
+* 
+body {
+    font-size: larger;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.header {
+    padding: 20px;
+    font-family:'Courier New', Courier, monospace;
+    background-color:grey;
+    color: #ffffff;
+}
+
+.header h1 .Noelle {
+    color: pink;
+}
