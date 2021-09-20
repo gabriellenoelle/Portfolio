@@ -1,2 +1,3 @@
-Challenge 2: Advanced CSS <br/>
-This week, I created a professional portfolio using advanced CSS techniques.
+<b>My Portfolio!</b> <br/><br/>
+I created a professional portfolio using advanced CSS techniques.<br/><br/>
+https://gabriellenoelle.github.io/Portfolio/
