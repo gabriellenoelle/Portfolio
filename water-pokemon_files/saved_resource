@@ -1,0 +1,38 @@
+
+var ftGUID_4196765="49899E27FADAE1";
+var ftConfID_4196765="0";
+var ftParams_4196765="ftx=&fty=&ftadz=&ftscw=&ft_custom=&ftOBA=1&ft_ifb=1&ft_domain=wallpaperaccess.com&ft_agentEnv=0&ft_referrer=https%3A%2F%2Fwallpaperaccess.com%2F&ft_section=__14028125150572903100044205928740113640&cachebuster=572543.9349294037";
+var ftKeyword_4196765="";
+var ftCustom_4196765="";
+var ftSection_4196765="__14028125150572903100044205928740113640";
+var ftSegment_4196765="ag2h";
+var ftSegmentList_4196765=[{s:'ag2h'}];
+var ftRuleMatch_4196765="0";
+var ftTimestamp_4196765="1630879956";
+var ftGeoC2_4196765="us";
+var ftGeoState_4196765="fl";
+var ftGeoCity_4196765="wesley chapel";
+var ftISP_4196765="charter communications";
+var ftSpeed_4196765="cable";
+var ftDMA_4196765="539";
+var ftLong_4196765="-82.3";
+var ftLat_4196765="28.21";
+var ftPostal_4196765="33543";
+var ftTimeZone_4196765="-400";
+var ftMobileCarrier_4196765="";
+var ftImp4196765 = {};
+ftImp4196765.privacy = "x";
+ftImp4196765.guidAge = "7";
+ftImp4196765.impID = "D876733E-2D78-3BD7-D1FC-C8A2AFFD6101";
+ftImp4196765.duid = "FT:49899E27FADAE1";
+
+ftImp4196765.ft_tpplid = "";
+ftImp4196765.ft_c = {};
+ftImp4196765.gdpr = "";
+ftImp4196765.gdpr_consent = "";
+ftImp4196765.gdpr_pd = "";
+ftImp4196765.oob_consent = "0";
+ftImp4196765.gdprStoredConsent = "";
+ftImp4196765.us_privacy = "";
+
+document.write('<scr'+'ipt src="https://cdn.flashtalking.com/xre/419/4196765/3481775/js/j-4196765-3481775.js" id="ftscript_m4196765" name="ftscript_m4196765"></scr'+'ipt>');
