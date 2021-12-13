@@ -1,5 +1,5 @@
-<b>My Portfolio!</b> <br/><br/>
-I created a professional portfolio using advanced CSS techniques.<br/><br/>
+<b>My Portfolio 💗</b> <br/><br/>
+This is my professional portfolio so far. Please check out my work and do not hesitate to reach out! I look forward to speaking with you!<br/><br/>
 https://gabriellenoelle.github.io/Portfolio/<br/>
-![image](https://user-images.githubusercontent.com/88753098/136730772-f6b73976-2b8a-4694-9281-e7739471983d.png)
+![image](![image](https://user-images.githubusercontent.com/88753098/145891144-098c6103-478a-4a1b-ab28-7d6a6de0ae0e.png))
 
