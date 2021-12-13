@@ -1,6 +1,6 @@
 img.profilepic {
   display: flex;
-  border: 1px solid #dad9d9;
+  border: 1px solid palevioletred;
   border-radius: 4px;
   padding: 5px;
   width: 150px;
@@ -15,11 +15,15 @@ img.profilepic {
 body {
   font-size: larger;
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-  background-color: whitesmoke;
+  background-image: linear-gradient(
+    rgb(246, 203, 211),
+    rgb(226, 146, 173),
+    rgb(202, 77, 118)
+  );
 }
 
 footer {
-  background: grey;
+  background: transparent;
   padding: 40px 35px;
   display: flex;
   justify-content: space-between;
@@ -44,7 +48,7 @@ footer div {
 
 header {
   padding: 20px 35px;
-  background-color: grey;
+  background-color: transparent;
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;
@@ -74,11 +78,38 @@ header nav ul li a {
   font-weight: lighter;
   font-size: 1.55vw;
 }
-
-header nav ul li a:hover {
+header nav ul li a:visited {
   color: whitesmoke;
   border-radius: 15px;
   text-shadow: none;
+}
+header nav ul li a:hover {
+  color: pink;
+  border-radius: 15px;
+  text-shadow: none;
+}
+
+/* header nav ul li a:link {
+  color: black;
+  border-radius: 15px;
+  text-shadow: none;
+} */
+
+div.flex-item a:visited {
+  color: whitesmoke;
+  border-radius: 15px;
+  text-shadow: none;
+}
+div.flex-item a:hover {
+  color: grey;
+  border-radius: 15px;
+  text-shadow: none;
+}
+
+div.flex-item a:link {
+  color: whitesmoke;
+  border-radius: 15px;
+  text-align: center;
 }
 
 .hero {
@@ -94,7 +125,7 @@ header nav ul li a:hover {
   width: 35%;
   text-align: right;
   margin: 3.5%;
-  color: darkgrey;
+  color: blanchedalmond;
   font-size: 18px;
   line-height: 1.2;
 }
@@ -102,13 +133,18 @@ header nav ul li a:hover {
 .header {
   padding: 20px;
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-  background-color: grey;
+  background-color: blanchedalmond;
   color: #ffffff;
+}
+
+span.Noelle {
+  color: palevioletred;
 }
 
 .header h1 {
   display: inline-block;
   font-size: 30px;
+  color: white;
 }
 
 .header div {
@@ -140,22 +176,13 @@ header nav ul li a:hover {
 }
 
 .flex-item {
-  background: lightpink;
-  padding: 5px;
-  width: 400px;
-  height: 250px;
-  margin-top: 10px;
-  line-height: 150px;
-  color: white;
-  font-weight: bold;
-  font-size: 22px;
-  text-align: center;
-  align-items: stretch;
-}
-
-.h1,
-.span Noelle {
-  color: pink;
+  display: flex;
+  border: 1px solid palevioletred;
+  border-width: 5px;
+  border-radius: 15px;
+  padding: 20px;
+  width: 250px;
+  height: 120px;
 }
 
 /* Large */
@@ -163,6 +190,13 @@ header nav ul li a:hover {
   display: flex;
   flex-flow: row wrap;
   justify-content: flex-end;
+}
+
+section.contact {
+  border-radius: 25px;
+  border-color: grey;
+  padding-bottom: 15px;
+  color: whitesmoke;
 }
 
 /* Medium screens */
