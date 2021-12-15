@@ -6,6 +6,10 @@ img.profilepic {
   width: 150px;
 }
 
+.profile {
+  padding: 10px;
+}
+
 * {
   box-sizing: border-box;
   margin: 0;
@@ -84,7 +88,7 @@ header nav ul li a:visited {
   text-shadow: none;
 }
 header nav ul li a:hover {
-  color: pink;
+  color: grey;
   border-radius: 15px;
   text-shadow: none;
 }
@@ -183,6 +187,16 @@ span.Noelle {
   padding: 20px;
   width: 250px;
   height: 120px;
+  justify-content: center;
+}
+
+.text {
+  display: flex;
+  flex-wrap: row wrap;
+  justify-content: center;
+  color: whitesmoke;
+  font-size: medium;
+  padding-top: 10px;
 }
 
 /* Large */
